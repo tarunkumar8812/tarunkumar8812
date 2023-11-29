@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React, MUI, HTML, CSS**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-tarun.vercel.app/home](https://portfolio-tarun.vercel.app/home)
+- 👨‍💻 All of my projects are available at [https://portfolio-tarun.vercel.app](https://portfolio-tarun.vercel.app)
 
 - 💬 Ask me about **M.E.R.N**
 
